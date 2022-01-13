@@ -5,5 +5,5 @@ Began working with New York Times APIs in order to display top articles at the t
 
 Areas to Improve:
 
--Cleaner display
+-Cleaner display "\n"
 -Multiple categories
