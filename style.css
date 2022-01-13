@@ -1,5 +1,23 @@
+/*
+The following style changes affect the website title
+*/
 body {
   font-family:"Times New Roman"
   max-width: 50cm;
   margin: auto;
+}
+/*
+The following style changes affect the article titles
+*/
+a {
+  display: block;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  font-size: 32px;
+}
+/*
+The following style changes affect the images
+*/
+img {
+  height: 200px;
 }
